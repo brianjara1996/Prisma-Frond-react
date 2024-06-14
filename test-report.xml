@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\ProyectosFront\fe-user-settlement-movements-portal\src\components\movusuComponents\searchCoupons.test.tsx">
+    <testCase name="SearchPresentedCoupons Component renders correctly and allows interaction" duration="817"/>
+  </file>
+</testExecutions>
